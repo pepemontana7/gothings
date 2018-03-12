@@ -1,4 +1,4 @@
-#GoThings OAUTH Provider
+# GoThings OAUTH Provider
 
 The following is a barebones oauth provider, that can be used in a raspberry pi for integration with Smarthings ecosystem.
 
